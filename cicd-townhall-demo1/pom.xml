@@ -41,7 +41,7 @@
                   <muleVersion>${app.runtime}</muleVersion>
                           
         
-                  <applicationName>app-townhalls</applicationName>
+                  <applicationName>app-townhall-demo</applicationName>
                   <uri>https://anypoint.mulesoft.com</uri>
                           
                   <username>mouli16</username>
