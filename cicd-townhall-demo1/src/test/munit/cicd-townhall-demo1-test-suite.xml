@@ -13,7 +13,7 @@
 			<flow-ref doc:name="Flow-ref to cicd-townhall-demo1Flow" doc:id="ba7b08d4-d71a-44c5-83cf-4e89ce80955e" name="cicd-townhall-demo1Flow"/>
 		</munit:execution>
 		<munit:validation >
-			<munit-tools:assert-that doc:name="Assert that" doc:id="eb3f10a9-16c0-4a34-8657-593520314538" expression="#[payload]" is="#[MunitTools::nullValue()]"/>
+			<munit-tools:assert-that doc:name="Assert that" doc:id="eb3f10a9-16c0-4a34-8657-593520314538" expression="#[payload]" is="#[MunitTools::notNullValue()]"/>
 		</munit:validation>
 	</munit:test>
 
