@@ -50,9 +50,7 @@
                   <password>Mouli143@</password>
                           
                   <workerType>Micro</workerType>
-                          
-                  
-                          
+        
                   <environment>Sandbox</environment>
                   <workers>1</workers>
                </cloudHubDeployment>
