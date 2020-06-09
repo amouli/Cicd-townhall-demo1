@@ -41,7 +41,7 @@
                   <muleVersion>${app.runtime}</muleVersion>
                           
         
-                  <applicationName>Purchase-order</applicationName>
+                  <applicationName>Purchasing-order</applicationName>
                   <uri>https://anypoint.mulesoft.com</uri>
                           
                   <username>mouli16</username>
